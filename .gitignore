@@ -1,0 +1,19 @@
+__pycache__/
+.DS_Store
+/bin/
+/include/
+/lib/
+/lib64
+/pyvenv.cfg
+/Scripts/
+/share/
+/conda-env/
+
+/temp/*
+!/temp/.keep
+# /notebooks/*
+!/notebooks/.keep
+*.ipynb
+gcp_service_account.json
+# Ignore generated credentials from google-github-actions/auth
+gha-creds-*.json

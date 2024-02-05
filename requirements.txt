@@ -1,0 +1,5 @@
+pandas==1.5.3
+psycopg2-binary==2.9.5
+pandas_gbq==0.19.1
+google_cloud_bigquery==3.5.0
+tqdm==4.65.0
